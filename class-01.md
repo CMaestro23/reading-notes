@@ -9,7 +9,8 @@
 ### What symbol will create a heading in Markdown?
 #### This (#) one
 ### How many do you need to create the largest heading?
-![There can be only one](https://unsplash.com/photos/IwO87F19PYU)
+![There can be only one](https://images.unsplash.com/photo-1660476234296-9758ede11977?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fDF8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=500&q=60)
+
 ### How many do you need to create the smallest heading?
 ### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 ### How do you create a link with Markdown?
