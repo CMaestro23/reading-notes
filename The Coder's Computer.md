@@ -30,6 +30,8 @@ Different themes allows you to customize your text editor to what suits you best
 
 Extensions for your text editor can help create shortcuts for code and make your work simpler and faster. They help add funcionality to your text editor and make you more efficient.
 
+![Plug in](https://images.unsplash.com/photo-1520869562399-e772f042f422?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGx1ZyUyMGlufGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60)
+
 ## Built in vs. Third party Text Editors
 
 #### Whether you use a Mac, Windows, or Linux based compute they will each come with their own built in text editors. These are basic text editors with none of the feature mentioned above. No code completion, syntax highlighting, themes, or extensions. 
