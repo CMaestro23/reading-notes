@@ -1,5 +1,5 @@
 # reading-notes -- Caleb McKinney
-`#0969DA`	
+#0969DA
 
 A place to view notes for Codex.
 <h2>Thoughts on Growth Mindset</h2>
