@@ -13,3 +13,15 @@
 3. a nice variety of themes (to reduce eye strain andfatigue); and
 4. the ability to choose from a healthy selection of
 extensions available when you need them
+
+### Code Completion
+
+Code Completion helps anticipate code and helps minimize mistakes and typos and can automatically complete code for you. 
+
+### Syntax Highlighting
+
+Syntax highlighting color codes your code. Which makes it easier to read and help keep your code organized.
+
+### Variety of themes
+
+Different themes allows you to customize your text editor to what suits you best. Using dark themes with brighter text can reduce eye strain and fatique.
