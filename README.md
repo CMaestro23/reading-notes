@@ -1,4 +1,6 @@
 # reading-notes -- Caleb McKinney
+`#0969DA`	
+
 A place to view notes for Codex.
 <h2>Thoughts on Growth Mindset</h2>
 **Growth mindset is about continually working and being disciplined to push through the difficult parts of learning. Learning to be okay with being bad at something until you are good at it. Sometimes that means doing it poorly repeatedly, until you have that breakthrough of doing it well.**
