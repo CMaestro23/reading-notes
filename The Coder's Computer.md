@@ -25,3 +25,16 @@ Syntax highlighting color codes your code. Which makes it easier to read and hel
 ### Variety of themes
 
 Different themes allows you to customize your text editor to what suits you best. Using dark themes with brighter text can reduce eye strain and fatique.
+
+### Extentsions
+
+Extensions for your text editor can help create shortcuts for code and make your work simpler and faster. They help add funcionality to your text editor and make you more efficient.
+
+## Built in vs. Third party Text Editors
+
+#### Whether you use a Mac, Windows, or Linux based compute they will each come with their own built in text editors. These are basic text editors with none of the feature mentioned above. No code completion, syntax highlighting, themes, or extensions. 
+
+#### There are also a variety of third party Text editors including; Notepad++, TextWrangler, Visual Studio Code, BB Edit, Atom, and Brackets among others. These all have their own strengths and weaknesses and the one that works best for you is usually the best choice. For this course we will be using Visual Studio Code. Visual Studio Code includes: syntax highlighting, themes, extensions and code
+completion and is commonly used among web developers. 
+
+
