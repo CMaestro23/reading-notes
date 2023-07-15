@@ -17,4 +17,4 @@ A place to view notes for Codex.
 <h3>3 - Have the right tools - the right tools make the job easier, don't make it harder than it has to be</h3>
 
 
-[GitHub](https://CMaestro23.github.io/reading-notes/)
+[GitHub](https://github.com/cmaestro23)
