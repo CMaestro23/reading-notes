@@ -26,6 +26,8 @@ Syntax highlighting color codes your code. Which makes it easier to read and hel
 
 Different themes allows you to customize your text editor to what suits you best. Using dark themes with brighter text can reduce eye strain and fatique.
 
+![Themes](https://images.unsplash.com/photo-1524440914234-440f66215e1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHN0eWxlc3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60)
+
 ### Extentsions
 
 Extensions for your text editor can help create shortcuts for code and make your work simpler and faster. They help add funcionality to your text editor and make you more efficient.
