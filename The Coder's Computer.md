@@ -48,3 +48,27 @@ Extensions for your text editor can help create shortcuts for code and make your
 completion and is commonly used among web developers. 
 
 
+
+### What are four important features to look for in a text editor?
+
+1. code completion
+2. syntax highlighting
+3. a nice variety of themes (to reduce eye strain andfatigue); and
+4. the ability to choose from a healthy selection of
+extensions available when you need them
+What do the following commands do?
+
+- pwd tells what your current directory is and where you are in the directory
+- ls tells you what is in the current directory
+- cd allows you to change directory or go back to your home directory
+- mkdir creates a new directory
+- touch creates a blank file
+Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+cd projects
+mkdir new-project
+touch new-project/newfile.md
+cd ..
+ls projects/new-project
+
+- in the scenario above, we are navigating to the projects directory, creating a new directory within projects, then creating a new file, and then navigating to that new-project file
+
