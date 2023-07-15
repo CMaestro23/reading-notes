@@ -63,7 +63,8 @@ What do the following commands do?
 - cd allows you to change directory or go back to your home directory
 - mkdir creates a new directory
 - touch creates a blank file
-Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+
+### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 cd projects
 mkdir new-project
 touch new-project/newfile.md
