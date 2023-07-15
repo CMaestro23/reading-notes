@@ -26,8 +26,6 @@ Syntax highlighting color codes your code. Which makes it easier to read and hel
 
 ![Highlights](https://images.unsplash.com/photo-1567855354833-ac2c4f967b0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGlnaGxpZ2h0ZXJzfGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60)
 
-
-
 ### Variety of themes
 
 Different themes allows you to customize your text editor to what suits you best. Using dark themes with brighter text can reduce eye strain and fatique.
@@ -56,7 +54,8 @@ completion and is commonly used among web developers.
 3. a nice variety of themes (to reduce eye strain andfatigue); and
 4. the ability to choose from a healthy selection of
 extensions available when you need them
-What do the following commands do?
+
+### What do the following commands do?
 
 - pwd tells what your current directory is and where you are in the directory
 - ls tells you what is in the current directory
