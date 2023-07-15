@@ -18,6 +18,8 @@ extensions available when you need them
 
 Code Completion helps anticipate code and helps minimize mistakes and typos and can automatically complete code for you. 
 
+![Code](https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHByZWRpY3RpdmUlMjB0ZXh0fGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60)
+
 ### Syntax Highlighting
 
 Syntax highlighting color codes your code. Which makes it easier to read and help keep your code organized.
