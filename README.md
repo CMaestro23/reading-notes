@@ -8,6 +8,7 @@ A place to view notes for Codex.
 
 ![Handyman Can](https://publicdomainvectors.org/photos/Boy-in-red-cap.png)
 
+
 <sub> Four years ago we moved to a house with some land in the country. I was not at all handy then when we moved here. But in the past few months I have remodeled our pantry and laundry room and the ability to do that came from 4 years of working on different projects and getting better. Now I am competent and can do much more than before. That is an example of growth mindset, I let myself fail many times and continue to. But I get better with each failure.</sub>
 
 **Steps for Growth Mindset**
