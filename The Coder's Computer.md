@@ -65,11 +65,12 @@ What do the following commands do?
 - touch creates a blank file
 
 ### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-cd projects
-mkdir new-project
-touch new-project/newfile.md
-cd ..
-ls projects/new-project
+
+1. cd projects
+2. mkdir new-project
+3. touch new-project/newfile.md
+4. cd ..
+5. ls projects/new-project
 
 - in the scenario above, we are navigating to the projects directory, creating a new directory within projects, then creating a new file, and then navigating to that new-project file
 
