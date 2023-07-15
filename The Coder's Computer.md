@@ -9,7 +9,8 @@
 ## Important Text Editor features
 
 1. code completion
-2. syntax highlighting
-3. a nice variety of themes (to reduce eye strain andfatigue); and
-4. the ability to choose from a healthy selection of
+2.   - code completion is like predictive text for coding
+3. syntax highlighting
+4. a nice variety of themes (to reduce eye strain andfatigue); and
+5. the ability to choose from a healthy selection of
 extensions available when you need them
