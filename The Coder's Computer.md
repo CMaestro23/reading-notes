@@ -20,6 +20,8 @@ Code Completion helps anticipate code and helps minimize mistakes and typos and 
 
 ### Syntax Highlighting
 
+![Highlights](https://images.unsplash.com/photo-1524440914234-440f66215e1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fHN0eWxlc3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60)
+
 Syntax highlighting color codes your code. Which makes it easier to read and help keep your code organized.
 
 ### Variety of themes
