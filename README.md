@@ -14,4 +14,4 @@ A place to view notes for Codex.
 **Steps for Growth Mindset**
 
 
-[GitHub]([https://Github.com](https://CMaestro23.github.io/reading-notes/))
+[GitHub](https://CMaestro23.github.io/reading-notes/)
