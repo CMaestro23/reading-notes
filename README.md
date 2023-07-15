@@ -12,9 +12,9 @@ A place to view notes for Codex.
 <sub> Four years ago we moved to a house with some land in the country. I was not at all handy then when we moved here. But in the past few months I have remodeled our pantry and laundry room and the ability to do that came from 4 years of working on different projects and getting better. Now I am competent and can do much more than before. That is an example of growth mindset, I let myself fail many times and continue to. But I get better with each failure.</sub>
 
 **Steps for Growth Mindset**
-###1 - Today's best will be different than tomorrow's best. DO Today's Best
-###2 - Know where to find resources google, youtube, other classmates, instructors
-###3 - Have the right tools - the right tools make the job easier, don't make it harder than it has to be
+### 1 - Today's best will be different than tomorrow's best. DO Today's Best
+### 2 - Know where to find resources google, youtube, other classmates, instructors
+### 3 - Have the right tools - the right tools make the job easier, don't make it harder than it has to be
 
 
 [GitHub](https://github.com/cmaestro23)
