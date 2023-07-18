@@ -16,6 +16,6 @@
 
 #### $ git commit -a
 
-#### What is the command to send your changed files to Github?
+## What is the command to send your changed files to Github?
 
-## $ git push origin master
+#### $ git push origin master
