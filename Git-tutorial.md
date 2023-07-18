@@ -4,6 +4,8 @@
 
 #### Version control records changes to a file or set of files allowing users to access past versions of a project. 
 
+![Checking out a file](https://images.unsplash.com/photo-1614849963640-9cc74b2a826f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGlicmFyeSUyMGJvb2tzfGVufDB8fDB8fHwy&auto=format&fit=crop&w=600&q=60)
+
 ## What is cloning in Git?
 
 #### Cloning copies a file to a different location. Using Git and terminal to allow communicate changes to the file. Cloning allows you to make changes prior to committing the changes.
