@@ -10,6 +10,8 @@
 
 #### Cloning copies a file to a different location. Using Git and terminal to allow communicate changes to the file. Cloning allows you to make changes prior to committing the changes.
 
+![Keeping it consistent](https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvbW11bmljYXRpb258ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=600&q=60)
+
 ## What is the command to track and stage files?
 
 #### To track and change files the command is: add filename or $ git add to track and stage all files
