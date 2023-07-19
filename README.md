@@ -18,3 +18,7 @@ A place to view notes for Codex.
 
 
 [GitHub](https://github.com/cmaestro23)
+
+## code-102
+
+[Class01](class-01.md)
