@@ -37,3 +37,7 @@
 # 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
 
 ### by adding margin and padding to the element. 
+
+## Things I want to understand
+
+### I need to be more versatile with my css and html styling/setups. I want to spend sometime exploring and trying out different elemnts and see how they impact the page. 
